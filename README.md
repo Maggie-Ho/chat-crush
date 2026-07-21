@@ -90,4 +90,4 @@ They said, “I've been busy lately—let's meet another time.” How should I i
 
 ## License
 
-No license has been selected yet. Add a license before publishing if you want others to reuse, modify, or redistribute this project under clear terms.
+MIT License
