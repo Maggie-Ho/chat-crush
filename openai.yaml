@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chat Crush"
+  short_description: "Respectful relationship communication coach"
+  default_prompt: "Use $chat-crush to analyze this conversation and suggest a respectful reply."
